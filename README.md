@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thamizhini-D
-- 👀 I’m interested in chemistry
-- 🌱 I’m currently learning coding in python
+- 👀 I’m interested in Data science & Chemistry
+- 🌱 I’m currently learning coding in Python
 - 📫 How to reach me? Don't.
 
 <!---
