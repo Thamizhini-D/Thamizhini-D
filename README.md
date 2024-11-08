@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thamizhini-D
 - 👀 I’m interested in Data science & Chemistry
 - 🌱 I’m currently learning coding in Python
-- 📫 How to reach me? Don't.
+- 📫 How to reach me? @.
 
 <!---
 Thamizhini-D/Thamizhini-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
